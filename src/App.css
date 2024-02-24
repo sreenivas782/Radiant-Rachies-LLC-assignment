@@ -1,0 +1,201 @@
+main {
+}
+
+.Main-box{
+  
+  
+  background-color:#FBFCFD;
+;
+  align-items:center;
+  justify-content:center;
+  padding: 0px 150px;
+}
+.Nav-sec{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0px 300px;
+  background-color:  #212731;
+  height: 50px;
+  border-bottom: 1px solid #e0e0e0;
+  list-style:none;
+  color:#D1D6DA;
+  
+}
+
+.Baner-box h1{
+ align-items:left;
+ justify-content:left;
+  co
+ 
+}
+.Baner-ul {
+  display: flex;
+  justify-content: space-between;
+  flex-direction:row;
+  
+  list-style:none;
+  padding:0px 0px;
+  
+}
+.Baner2-sec ul{
+  list-style:none;
+  display:flex;
+  justify-content:space-between;
+  padding:0px 0px;
+}
+
+.Baner2-sec ul li{
+  border:10px solid white;
+  border-radius:40px;
+  background-color:white;
+  
+}
+.Baner3-sec ul{
+  list-style:none;
+  display:flex;
+  justify-content:space-between;
+  padding:0px;
+  padding-right:600px;
+}
+
+.Banerc1{
+  background-color:white;
+  display:flex;
+  flex-display:row;
+  padding:20px 0px;
+  justify-content:space-between;
+  align-items:center;
+ 
+  
+}
+.Banerc1-img{
+  
+   
+  width: 141px
+  height: 103px
+  top: 422px
+  left: 326px
+
+
+
+}
+.Banerc1-c{
+  
+  padding:0px 20px;
+  background-color:white;
+  margin:0px 30px;
+  
+}
+.Banerc1-d{
+
+ margin-right:30px; 
+ border:10px;
+ border-radius:10px;
+}
+.Banerc1-d button{
+  background-color:#1B88F4;
+  border:2px solid #1B88F4;
+  border-radius:30px;
+  padding:10px 50px;
+  margin-top:100px;
+}
+.btn{
+  background-color:white;
+  border:0px  :white;
+  border-radius:100px;
+  padding:3px 15px;
+  margin-bottom:200px;
+}
+
+.Baneroff-box{
+  
+  display:flex;
+  justify-content:space-between;
+}
+.Baneroff-1{
+  
+  
+}
+.Baneroff-1 ul{
+  display:flex;
+  list-style:none;
+  align-items:left;
+  justify-content:left;
+  padding:0px 0px;
+}
+.Baneroff-1 ul li{
+  background-color:#F2F4F7;
+  border:2px solid white;
+  border-radius:10px;
+  padding:1px 5px;
+  
+}
+.Baneroff-1 button{
+  background-color: #1B88F4;
+  border:5px solid white;
+  border-radius:12px;
+  padding:10px 120px;
+  
+  
+}
+.Baneroff-1 img{
+  width:50%;
+  
+}
+.Baner-signup{
+  display:flex;
+  justify-content:space-between;
+}
+.Baner-signup input{
+  background-color:white;
+  border:1px blue;
+  padding:10px 80px;
+  border-radius:10px;
+  
+}
+.Baner-signup lable{
+  background-color:#1B88F4;
+  border:0px solid black;
+  padding:10px 20px;
+  border-radius:10px;
+}
+.About-box{
+  background-color:#212731;
+  color: #FFFFFF;
+  padding:30px 180px;
+}
+.About-box{
+  display: flex;
+  justify-content: space-between;
+}
+.About-1 ul{
+  list-style:none;
+}
+.About-2 ul{
+  list-style:none;
+}
+.About-1 strong{
+  padding-left:40px;
+  
+}
+.About-2 strong{
+  padding-left:40px;
+
+}
+.pink{
+  background-color:#FFF4ED
+}
+.Banerc4-d{
+ margin-right:30px; 
+ border:10px;
+ border-radius:10px;
+}
+.Banerc4-d button{
+    background-color:#1B88F4;
+    border:2px solid #1B88F4;
+    border-radius:30px;
+    padding:10px 40px;
+    margin-top:100px;
+  }
+}
